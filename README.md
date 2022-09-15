@@ -29,3 +29,7 @@ Tem como objetivo encontrar semelhanças ou relações entre as entradas.
 **Semi-supervisionado**
 
 Há a presença de um conjunto de dados, porém apenas se conhece a saída de alguns.
+
+### Deep Learning e Aprendizado de Máquina
+
+Deep Learning é um tipo de aprendizado de máquina.
