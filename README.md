@@ -33,3 +33,14 @@ Há a presença de um conjunto de dados, porém apenas se conhece a saída de al
 ### Deep Learning e Aprendizado de Máquina
 
 Deep Learning é um tipo de aprendizado de máquina.
+
+## Redes Neurais Artificiais
+
+- Estrutura das Redes Neurais Artificiais
+- Neurônio Artificial
+- Funcionamento Básico
+
+### Estrutura das Redes Neurais Artificiais
+
+Criação de uma estrutura computacional que simulasse o cérebro humano.
+
